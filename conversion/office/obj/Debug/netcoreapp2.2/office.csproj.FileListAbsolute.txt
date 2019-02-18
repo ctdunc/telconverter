@@ -1,0 +1,11 @@
+/home/connor/github-projects/telegraph/conversion/office/bin/Debug/netcoreapp2.2/office.deps.json
+/home/connor/github-projects/telegraph/conversion/office/bin/Debug/netcoreapp2.2/office.runtimeconfig.json
+/home/connor/github-projects/telegraph/conversion/office/bin/Debug/netcoreapp2.2/office.runtimeconfig.dev.json
+/home/connor/github-projects/telegraph/conversion/office/bin/Debug/netcoreapp2.2/office.dll
+/home/connor/github-projects/telegraph/conversion/office/bin/Debug/netcoreapp2.2/office.pdb
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.csprojAssemblyReference.cache
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.csproj.CoreCompileInputs.cache
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.AssemblyInfoInputs.cache
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.AssemblyInfo.cs
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.dll
+/home/connor/github-projects/telegraph/conversion/office/obj/Debug/netcoreapp2.2/office.pdb
